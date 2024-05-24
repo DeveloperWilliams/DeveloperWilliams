@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Wanyama William Achuchi</h1>
+<h1 align="left" color="blue">Hi 👋, I'm Wanyama William Achuchi</h1>
 <h3 align="left">A passionate full stack developer from Kenya.</h3>
 
 ## 🌐 Socials:
