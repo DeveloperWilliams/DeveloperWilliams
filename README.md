@@ -1,7 +1,7 @@
 <h1 align="left" style="color:red">Hi 👋, I'm Wanyama William Achuchi</h1>
-<h3 align="left">A passionate full stack developer from Kenya.</h3>
+<h3 align="left">A Passionate Full Stack Developer from Kenya.</h3>
 
-Check out my Portfolio Website [Here](https://williee.netlify.app/).
+ [Visit My Website](https://williee.netlify.app/).
 
 [Email Me](mailto:archywilliams2@gmail.com)
 
