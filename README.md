@@ -2,7 +2,7 @@
 
 <h3 align="left">A Passionate Full Stack Developer from Kenya.</h3>
 
- [My Website](https://williee.netlify.app/). 
+ [Visit My Website](https://williee.netlify.app/). 
  
  [Email Me](mailto:archywilliams2@gmail.com)
 
