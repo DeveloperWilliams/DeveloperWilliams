@@ -108,7 +108,7 @@
 
 <br/>  
 
-<div align="center">
+<div align="left">
             <a href="https://paypal.me/archywilliams2@gmail.com" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
