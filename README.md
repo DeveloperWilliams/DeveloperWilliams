@@ -104,7 +104,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=DeveloperWilliams&show_icons=true&count_private=true&hide_border=true" />
   </div>
   <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperWilliams" />
   </div>
 </div>
 
