@@ -7,7 +7,7 @@
 </h1>  
   
 
-- 🔭 I’m currently working on [MERN Blog App](https://github.com/DeveloperWilliams/MERN-Blog-App)  
+- 🔭 I’m currently working on a [MERN Blog App](https://github.com/DeveloperWilliams/MERN-Blog-App)  
   
 
 - 🌱 I’m currently learning Mobile Apps Development
