@@ -7,16 +7,14 @@
 </h1>  
   
 
-- 🔭 I’m currently working on a [MERN Blog App](https://github.com/DeveloperWilliams/MERN-Blog-App)  
+- 🔭 I’m currently working on a Fullstack Web Apllications. 
   
 
 - 🌱 I’m currently learning Mobile Apps Development
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to MERN/PERN stack and Data Engineering. 
   
 
 - ⚡ Fun fact: I often get my best coding ideas late at night.
   
-
-<br/>  
