@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on a Fullstack Web Apllications. 
   
 
-- 🌱 I’m currently learning Mobile Apps Development
+- 🌱 I’m currently in love with Data Engineering
   
 
 - ❓ Ask me about anything related to MERN/PERN stack and Data Engineering. 
