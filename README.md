@@ -7,7 +7,7 @@
 </h1>  
   
 
-- 🔭 I’m currently working on a Fullstack Web Apllications. 
+- 🔭 I’m currently working on a Fullstack Web and Mobile Apllications. 
   
 
 - 🌱 I’m currently in love with Data Engineering
