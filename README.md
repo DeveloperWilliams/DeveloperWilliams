@@ -10,10 +10,10 @@
 - 🔭 I’m a backend enginner. 
   
 
-- 🌱 I’m currently in love with Data Engineering
+- 🌱 I’m currently in love with openMRS
   
 
-- ❓ Ask me about anything related to advanced fullstack web applications 
+- ❓ Ask me about anything related to advanced .NET and Java Backends 
   
 
 - ⚡ Fun fact: I often get my best coding ideas late at night.
