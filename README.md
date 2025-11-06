@@ -3,11 +3,11 @@
 </div>  
   
 
-### <h1 align="left">Hi 👋, I'm Developer Williams
+### <h1 align="left">Hi 👋, I'm William Achuchi
 </h1>  
   
 
-- 🔭 I’m a backend enginner. 
+- 🔭 I’m a Software. 
   
 
 - 🌱 I’m currently in love with openMRS
