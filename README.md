@@ -7,7 +7,7 @@
 </h1>  
   
 
-- 🔭 I’m a Software. 
+- 🔭 I’m a Software Engineer. 
   
 
 - 🌱 I’m currently in love with openMRS
