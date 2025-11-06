@@ -7,7 +7,7 @@
 </h1>  
   
 
-- 🔭 I’m a Software Engineer. 
+- I’m a Software Engineer. 
   
 
 -  I’m currently in love with openMRS
@@ -16,5 +16,5 @@
 -  Ask me about anything related to advanced .NET and Java Backends 
   
 
-- Fun fact: I often get my best coding ideas late at night.
+-  Fun fact: I often get my best coding ideas late at night.
   
