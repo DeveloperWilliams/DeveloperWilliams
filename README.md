@@ -10,7 +10,7 @@
 - I’m a Software Engineer. 
   
 
--  I’m currently in love with openMRS
+-  I’m currently in love with JAVA☕︎
   
 
 -  Ask me about anything related to advanced .NET and Java Backends 
